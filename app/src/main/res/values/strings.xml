@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mindCalc</string>
+    <string name="start">Начать</string>
+    <string name="wrongAnswer">Неправильных: 0</string>
+    <string name="correctAnswer">Правильных: 0</string>
+    <string name="task">Здесь будет задача</string>
+    <string name="percentCorrectAnswer">Процент правильных ответов: 0.00%</string>
+    <string name="enterYourAnswer">Введите ответ</string>
+    <string name="check">Проверить</string>
+</resources>
